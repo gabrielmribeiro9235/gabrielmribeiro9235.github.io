@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gabriel Ribeiro
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
 # 👋 Bem-vindo!
 
 Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos. Neste repositório tem todo o conteúdo (código) que eu já produzi até hoje durante meus estudos.
